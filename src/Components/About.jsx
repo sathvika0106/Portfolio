@@ -1,5 +1,5 @@
 import React from "react";
-import image from "../images/skillsbg.jpg";
+import image from "../images/skillsbg.jpeg";
 
 const imageAltText = "purple and blue abstract background";
 
