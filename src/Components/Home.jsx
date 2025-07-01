@@ -1,8 +1,8 @@
 import React from "react";
 import PropTypes from "prop-types";
-import image from "../images/sath1.jpeg";
+// import image from "../images/sath1.jpeg";
 
-
+const image = "https://github.com/sathvika0106/Portfolio/blob/main/sath1.jpeg";
 const Home = ({ name, title }) => {
   return (
     <section id="home" className="min-height">
