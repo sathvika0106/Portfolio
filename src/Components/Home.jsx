@@ -1,6 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
-import image from "../images/sath1.jpg";
+import image from "../images/sath1.JPG";
+
 
 const Home = ({ name, title }) => {
   return (
