@@ -1,6 +1,6 @@
 import React from "react";
 import image from "../images/proj.jpeg";
-import image1 from "../images/proj1.jpeg";
+import image1 from "../images/sath1.jpeg";
 
 const imageAltText = "desktop with books and laptop";
 const projectList = [
